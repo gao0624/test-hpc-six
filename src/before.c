@@ -1,9 +1,5 @@
 #include<stdio.h>
 
-/**
- * 下面代码是6-87
-*/
-
 void arm_f(){
     printf("ON_ARM \n");
 }
